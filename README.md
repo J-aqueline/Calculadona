@@ -44,3 +44,5 @@ Insira o primeiro número (por exemplo, 10).
 Clique no botão de divisão (/).
 Insira o segundo número (por exemplo, 5).
 Clique no botão "=" para ver o resultado (2).
+
+![image](https://github.com/J-aqueline/Calculadona/assets/57812389/95700335-e724-40b7-bd59-9257cac7ee10)
